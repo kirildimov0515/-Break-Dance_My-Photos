@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: #00FFD1;
+
+}
+main{
+    background-color: #06266F;
+}
+img{
+    width: 500px;  
+    height: 500px;
+    border-left: 10px solid snow;
+    border-right: 10px solid snow;
+}
+a{
+    text-decoration: none;
+    margin: 15px;
+    color: black;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+    padding: 5px;
+}
+.img_1{
+    width: 650px;
+    height: 500px;
+}
+.img_2{
+    width: 450px;
+    height: 600px;
+}
